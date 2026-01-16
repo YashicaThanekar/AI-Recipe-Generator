@@ -121,7 +121,7 @@ SavoraAI/
 
 ---
 
-## ✨ Features Implemented
+## ✨ Features 
 
 ### Core Features
 ✅ AI-generated dynamic recipes  
